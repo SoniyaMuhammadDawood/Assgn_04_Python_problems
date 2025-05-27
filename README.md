@@ -1,4 +1,4 @@
-🐍 **Python OOP & Advanced Concepts – 21 Practice Questions**
+🐍 ***Python OOP & Advanced Concepts – 21 Practice Questions***
 
 This repository contains solutions to 21 Python practice questions focused on Object-Oriented Programming (OOP) and advanced Python concepts. These exercises are designed to strengthen your understanding of classes, methods, decorators, inheritance, and more.
 
@@ -10,38 +10,38 @@ This repository contains solutions to 21 Python practice questions focused on Ob
 
 03_🌐 Public Variables and Methods
 
-🏷️ Class Variables and Class Methods
+04_🏷️ Class Variables and Class Methods
 
-🧊 Static Variables and Static Methods
+05_🧊 Static Variables and Static Methods
 
-🏗️ Constructors and Destructors
+06_🏗️ Constructors and Destructors
 
-🔐 Access Modifiers: Public, Private, and Protected
+07_🔐 Access Modifiers: Public, Private, and Protected
 
-🧬 The super() Function
+08_🧬 The super() Function
 
-🧪 Abstract Classes and Methods
+09_🧪 Abstract Classes and Methods
 
-👤 Instance Methods
+10_👤 Instance Methods
 
-🏷️ Class Methods
+11_🏷️ Class Methods
 
-🧊 Static Methods
+12_🧊 Static Methods
 
-🧱 Composition
+13_🧱 Composition
 
-🧺 Aggregation
+14_🧺 Aggregation
 
-🧭 Method Resolution Order (MRO) and Diamond Inheritance
+15_🧭 Method Resolution Order (MRO) and Diamond Inheritance
 
-🎨 Function Decorators
+16_🎨 Function Decorators
 
-🖼️ Class Decorators
+17_🖼️ Class Decorators
 
-🏡 Property Decorators: @property, @setter, and @deleter
+18_🏡 Property Decorators: @property, @setter, and @deleter
 
-☎️ callable() and __call__()
+19_☎️ callable() and __call__()
 
-⚠️ Creating a Custom Exception
+20_⚠️ Creating a Custom Exception
 
-🔄 Make a Custom Class Iterable
+21_🔄 Make a Custom Class Iterable
