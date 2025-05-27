@@ -1,12 +1,14 @@
 🐍 **Python OOP & Advanced Concepts – 21 Practice Questions**
+
 This repository contains solutions to 21 Python practice questions focused on Object-Oriented Programming (OOP) and advanced Python concepts. These exercises are designed to strengthen your understanding of classes, methods, decorators, inheritance, and more.
 
 📚 Covered Topics:
 
 01_🔁 Using self
-p2_🧩 Using cls
 
-🌐 Public Variables and Methods
+02_🧩 Using cls
+
+03_🌐 Public Variables and Methods
 
 🏷️ Class Variables and Class Methods
 
